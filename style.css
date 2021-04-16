@@ -37,6 +37,7 @@ header {
 main {
   display: flex;
   flex-wrap: wrap;
+  padding-left: 85px;
 }
 
 .movie {
